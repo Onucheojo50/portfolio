@@ -1,0 +1,98 @@
+element.style {
+    : ;
+}
+
+header {
+    : ;
+}
+
+header {
+    : ;
+}
+
+*, *::before, *::after
+
+.resume_timeline{
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+}
+.padding{
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    position: relative;
+}
+
+.ul{
+    margin-bottom: 0px;
+}
+
+* {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    order: 0;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: initial;
+    border-right-style: initial;
+    border-bottom-style: initial;
+    border-left-style: initial;
+    border-top-color: initial;
+    border-right-color: initial;
+    border-bottom-color: initial;
+    border-left-color: initial;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    box-sizing: border-box;
+    scrollbar-width: none;
+}
+-style-family-classic: "Font Awesome 6 Free";
+    --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-style-family-brands: "Font Awesome 6 Brands";
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+}
+:root {
+    --clr-light: #ffffff;
+    --clr-orange: rgb(223, 74, 15);
+    --clr-dark: rgb(14, 13, 13);
+    --clr-grey: rgb(131, 131, 131);
+    --clr-lightorange: rgb(248, 204, 123);
+    --clr-slate: #f1f1f1;
+    --clr-blue: #0a0efc;
+    --clr-green: #008f00;
+    --clr-purple: #8b00a7;
+}
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
